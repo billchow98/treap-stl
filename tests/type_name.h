@@ -1,7 +1,3 @@
-// © 2023 Bill Chow. All rights reserved.
-// Unauthorized use, modification, or distribution of this code is strictly
-// prohibited.
-
 // Credits: https://stackoverflow.com/questions/81870/is-it-possible-to-print-a-variables-type-in-standard-c/64490578#64490578
 
 #ifndef BST_TYPE_NAME_H

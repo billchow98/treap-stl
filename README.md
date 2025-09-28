@@ -29,9 +29,3 @@ sorted list of elements of the tree
 `std::multimap`)
 - Implementing other binary search trees, such as splay trees, AVL trees, and
 scapegoat trees, and comparing the time and memory usage of each
-
-### License
-Copyright © 2023 Bill Chow. All rights reserved.
-
-This repository is made available for evaluation purposes by authorized individuals only.
-Unauthorized use, reproduction, modification, or distribution of this code is strictly prohibited.

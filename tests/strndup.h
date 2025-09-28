@@ -1,7 +1,3 @@
-// © 2023 Bill Chow. All rights reserved.
-// Unauthorized use, modification, or distribution of this code is strictly
-// prohibited.
-
 #ifndef BST_STRNDUP_H
 #define BST_STRNDUP_H
 

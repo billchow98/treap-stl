@@ -1,7 +1,3 @@
-// © 2023 Bill Chow. All rights reserved.
-// Unauthorized use, modification, or distribution of this code is strictly
-// prohibited.
-
 #ifndef BST_DEBUG_ALLOC_H
 #define BST_DEBUG_ALLOC_H
 

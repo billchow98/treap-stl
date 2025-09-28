@@ -1,7 +1,3 @@
-// © 2023 Bill Chow. All rights reserved.
-// Unauthorized use, modification, or distribution of this code is strictly
-// prohibited.
-
 #include <iterator> // std::distance
 #include <set>      // std::set
 #include <utility>  // std::make_pair
